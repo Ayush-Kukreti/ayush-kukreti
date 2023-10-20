@@ -2,6 +2,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ayush-kukreti/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://leetcode.com/Ayush-Kukreti/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"></a>
 </p>
 <!--
 <p align="center">
@@ -16,11 +17,11 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a  Backend Developer @ Oracle <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am Ayush Kukreti a Software Developer @ Oracle from India.
 
-- 🔭 I’m working as a Software Engineer and contributing in backend for building web applications.
+- 🔭 Contributing in backend for building web applications.
 - ⚡ In my free time I solve problems on Leetcode/GeeksforGeeks, read tech articles, creates backend projects.
-- 📫 want to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ayushkukreti-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kukreti)
+- 📫 Want to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ayushkukreti-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kukreti) ![Gmail Badge](https://img.shields.io/badge/-ayushkukreti5@gmail.com-red?style=flat&logo=gmail&logoColor=white)
 
 ---
 
